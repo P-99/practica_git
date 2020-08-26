@@ -2,24 +2,21 @@ body{
     font-style: italic;
 }
 .main{
-    width: 60%;
+    width: 80px;
     margin: 0px auto;
     border: 1px solid blue;
     padding: 20px;
-    background-color: burlywood;
+    background-color: deeppink;
 }
 h2{
     margin-top: 0px;
-    color: darkmagenta;
+    color: chocolate;
 }
 .encabezado{
-    background-color: darkred;
+    background-color: blueviolet;
     padding: 20px;
     margin-bottom: 10px;
     font-size: 20px;
     box-shadow: 0px 10px 20px black;
-    color: burlywood;
-}
-h3{
-    color: crimson;
+    color: white;
 }
